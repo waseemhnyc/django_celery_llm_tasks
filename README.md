@@ -1,5 +1,7 @@
 # django-celery-llm-tasks
 
+[![Django Celery LLM Tasks Tutorial](https://img.youtube.com/vi/nzlRIxKFG-c/0.jpg)](https://youtu.be/nzlRIxKFG-c)
+
 This is a basic Django app showing how you could handle long running llm tasks with Celery and Redis. 
 Check out django cookie cutter to figure out where to set environment variables and other config stuff.
 
